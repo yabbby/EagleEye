@@ -1,1 +1,1 @@
-This A full stack web application called EagleEye
+This is a web applications aim at creating a clean enviroment for everybody.
